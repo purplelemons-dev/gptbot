@@ -1,0 +1,6 @@
+.env
+__pycache__
+.venv
+sessions.json
+big.txt
+activate
