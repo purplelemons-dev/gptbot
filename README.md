@@ -8,4 +8,7 @@ impliments the following technologies:
  - Threading
  - Server Sent Events (SSE)
  - Discord Bots
+ - Discord Slash Commands
  - GPT-4
+ - Cross Site Request Forgery prevention
+ - Frontend UI
